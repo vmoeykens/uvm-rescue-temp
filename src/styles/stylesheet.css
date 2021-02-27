@@ -7,9 +7,9 @@
 
 @media (prefers-color-scheme: dark) {
   * {
-    --tc: #fff;
-    --bc: #111;
-    --hc: #fb0;
+    --tc: #111;
+    --bc: #fff;
+    --hc: #273;
   }
 }
 

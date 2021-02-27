@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://minwiz.com/sitemap.xml
+Sitemap: https://uvm.edu/~rescue/sitemap.xml
